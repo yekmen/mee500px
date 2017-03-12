@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="fav">images/icon-favs.png</file>
+        <file alias="view">images/icon-views.png</file>
+        <file alias="like">images/icon-votes.png</file>
+        <file alias="pulse">images/pulse.png</file>
+        <file>images/pulse_small.png</file>
+        <file alias="defaultUserPic">images/userpic.png</file>
+        <file alias="error">images/error.png</file>
+        <file alias="icon64">icon/Mee500px64.png</file>
+        <file alias="icon120">icon/Mee500px120.png</file>
+        <file alias="icon256">icon/Mee500px256.png</file>
+        <file alias="background">images/500px.png</file>
+    </qresource>
+</RCC>

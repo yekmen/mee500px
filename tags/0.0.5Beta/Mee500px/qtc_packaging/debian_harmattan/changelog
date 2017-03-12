@@ -1,0 +1,30 @@
+mee500px (0.0.5) unstable; urgency=low
+  * Fix bug
+  * Add comments
+  * Add Image information
+  * Add login mode
+  * Add Animation
+
+ -- yekmen <>  Thu, 14 Nov 2013 16:21:38 +0100
+
+mee500px (0.0.4) unstable; urgency=low
+  * Add UserMenu
+  * Add OAuth
+
+ -- yekmen <>  Fri, 18 Oct 2013 17:53:03 +0200
+
+mee500px (0.0.3) unstable; urgency=low
+  * Add Swipe
+  * Fix bug
+ -- yekmen <>  Wed, 17 Jul 2013 00:56:49 +0200
+
+mee500px (0.0.2) unstable; urgency=low
+  * Aplha version
+
+ -- yekmen <>  Tue, 25 Jun 2013 12:44:28 +0200
+
+mee500px (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- yekmen <>  Tue, 25 Jun 2013 10:44:15 +0000
