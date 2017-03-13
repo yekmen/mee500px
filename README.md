@@ -1,4 +1,4 @@
-mee50px is a 500px.com client for Nokia N9 Harmatthan developed in Qt/QML.
+mee500px is a 500px.com client for Nokia N9 Harmatthan developed in Qt/QML.
 
 Developed for MeeGo Harmatthan.
 
